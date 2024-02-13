@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by Viacheslav Khakhulin on 13.02.2024.
+  
+*/
+
+"[LocationServiceUnavailable]" = "Location Service Unavailable";
+"[LocationServiceUnavailableDescription]" = "To use this app you have to enable location service in settings";
+"[OpenSettings]" = "Open Settings";
+"[Refresh]" = "Refresh";
+"[Location:]" = "Location:";
+"[CityName]" = "City name";
+"[Temperature:]" = "Temperature:";
+"[Summary:]" = "Summary:";
+"[RequestFailed]" = "Request Failed";
+"[RequestAgain]" = "Request again";
+"[GoOffline]" = "Go offline";
+"[Main]" = "Main";
+"[Forecast]" = "Forecast";
